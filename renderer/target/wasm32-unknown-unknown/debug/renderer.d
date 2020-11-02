@@ -1,0 +1,1 @@
+/Users/nicolasmelo/Desktop/next-rust-webgl-poc/renderer/target/wasm32-unknown-unknown/debug/renderer.wasm: /Users/nicolasmelo/Desktop/next-rust-webgl-poc/renderer/src/main.rs /Users/nicolasmelo/Desktop/next-rust-webgl-poc/renderer/src/utils/macros.rs /Users/nicolasmelo/Desktop/next-rust-webgl-poc/renderer/src/utils/mod.rs build.rs
